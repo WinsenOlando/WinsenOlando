@@ -70,9 +70,9 @@ If you’d like to collaborate, chat about tech, or just say hi, feel free to re
 ---
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/winsenolando/winsenolando/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/winsenolando/winsenolando/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/winsenolando/winsenolando/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/WinsenOlando/WinsenOlando/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/WinsenOlando/WinsenOlando/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/WinsenOlando/WinsenOlando/output/pacman-contribution-graph.svg">
 </picture>
 
 ###
