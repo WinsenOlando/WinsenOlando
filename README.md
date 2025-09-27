@@ -1,9 +1,15 @@
-# 👋 Hi there, I’m Winsen Olando
+<div align="center">
+  <h1> 👋 Hi there, I’m Winsen Olando </h1>
+</div>
 
 #### 📫 Connect with me
 
-[LinkedIn](https://www.linkedin.com/in/winsen-olando-1b3b32310)  
-[Instagram](https://www.instagram.com/winsen_olando)
+<a href="https://www.instagram.com/winsen_olando" target="_blank" style="text-decoration:none;">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
+<a href="https://www.linkedin.com/in/winsen-olando-1b3b32310" target="_blank" style="text-decoration:none;">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
 
 ---
 
@@ -32,31 +38,41 @@
 
 ### 🚀 Featured Projects
 
-| Project                 | Description                 | Tech       |
-| ----------------------- | --------------------------- | ---------- |
-| [Project-Name](link)    | What it does, why it's cool | Techs used |
-| [Another-Project](link) | A short description         | Techs used |
-| ...                     | ...                         | ...        |
+| Project                                                                              | Description                | Tech   |
+| ------------------------------------------------------------------------------------ | -------------------------- | ------ |
+| [MetaFi](https://github.com/WinsenOlando/MetaFi)                                     | Trading Platform Simulator | C      |
+| [Exchange Rate Forecast](https://github.com/WinsenOlando/USD-to-IDR-prediction)      | USD to IDR                 | Python |
+| [Fuel Supply Database](https://github.com/WinsenOlando/Database-Technology)          | Database Management        | MySQL  |
+| [Mental Health Prediction](https://github.com/WinsenOlando/Mental-Health-Prediction) | Text Analysis Using NLP    | Python |
 
 ---
 
-### 🎯 Goals & Aspirations
+### 🎯 My Interests
 
-- Build impactful open-source tools
-- Contribute to research in _[your research interest]_
-- Mentor and grow the dev community
-- [Add your personal career goals]
+- Teaching & Mentoring: Database Technology, Algorithm and Programming, Data Structure, Natural Language Processing
+- Artificial Intelligence: Machine Learning, Natural Language Processing, Computer Vision
+- Software Development: Web Application Development, Database Design & Optimization
 
 ---
 
 ### 🧩 Fun Facts
 
-- 📚 I love reading about _[your interest]_
-- 🏃‍♂️ I enjoy _[hobby or sport]_
-- 🎮 [Another fun fact]
+- 📚 Completed an internship at Sigma Komputer (1 month), assisted with printer troubleshooting, laptop installation, and CCTV setup.
+- 🏃‍♂️ Achieved Second Runner-Up in _UPH Business Plan Competition_, sharpening my business and problem-solving skills.
+- 🎮 Won 3rd Place in the National Vesak Article Writing Competition organized by Keluarga Buddhayana Indonesia, highlighting strong writing and communication skills.
 
 ---
 
 ### ✉️ Get in Touch
 
-If you’d like to collaborate, chat about tech, or just say hi, feel free to reach out via LinkedIn or drop me an email at `[youremail@example.com]`
+If you’d like to collaborate, chat about tech, or just say hi, feel free to reach out via LinkedIn or drop me an email at `[winsenolando@gmail.com]`
+
+---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/winsenolando/winsenolando/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/winsenolando/winsenolando/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/winsenolando/winsenolando/output/pacman-contribution-graph.svg">
+</picture>
+
+###
