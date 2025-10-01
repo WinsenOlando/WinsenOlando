@@ -61,7 +61,7 @@
 
 - 🖥️ Completed an internship at Sigma Komputer (1 month), assisted with printer troubleshooting, laptop installation, and CCTV setup.
 - 💡 Achieved Second Runner-Up in _UPH Business Plan Competition_, sharpening my business and problem-solving skills.
-- ✍️ Won 3rd Place in the National Vesak Article Writing Competition organized by Keluarga Buddhayana Indonesia, highlighting strong writing and communication skills.
+- ✍️ Won 3rd Place in _National Vesak Article Writing Competition_ organized by Keluarga Buddhayana Indonesia, highlighting strong writing and communication skills.
 
 ---
 
