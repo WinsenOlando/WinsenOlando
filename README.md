@@ -15,11 +15,11 @@
 
 ### 💼 About Me
 
-- Undergraduate Computer Science Master Track at BINUS University
-- Ex-BINUS SASC Mentor Scholarship Awardee
+- Undergraduate _Computer Science Master Track_ at BINUS University
+- Ex-BINUS SASC _Mentor Scholarship_ Awardee
 - Focus on _Machine Learning, Data Mining, & Software Engineering_ Areas
-- Recipient of Special Award in Physics at the City Level, conferred by Ministry of Primary and Secondary Education
-- Chief Editor of Gema Dhammavaddhana Production
+- Recipient of _Special Award in Physics_ at the City Level, conferred by Ministry of Primary and Secondary Education
+- _Chief Editor_ of Gema Dhammavaddhana Production
 
 ---
 
@@ -59,7 +59,7 @@
 
 ### 🧩 Fun Facts
 
-- 🖥️ Completed an internship at Sigma Komputer (1 month), assisted with printer troubleshooting, laptop installation, and CCTV setup.
+- 🖥️ Completed an _internship_ at Sigma Komputer (1 month), assisted with printer troubleshooting, laptop installation, and CCTV setup.
 - 💡 Achieved Second Runner-Up in _UPH Business Plan Competition_, sharpening my business and problem-solving skills.
 - ✍️ Won 3rd Place in _National Vesak Article Writing Competition_ organized by Keluarga Buddhayana Indonesia, highlighting strong writing and communication skills.
 
