@@ -38,12 +38,14 @@
 
 ### 🚀 Featured Projects
 
-| Project                                                                              | Description                | Tech   |
-| ------------------------------------------------------------------------------------ | -------------------------- | ------ |
-| [MetaFi](https://github.com/WinsenOlando/MetaFi)                                     | Trading Platform Simulator | C      |
-| [Exchange Rate Forecast](https://github.com/WinsenOlando/USD-to-IDR-prediction)      | USD to IDR                 | Python |
-| [Fuel Supply Database](https://github.com/WinsenOlando/Database-Technology)          | Database Management        | MySQL  |
-| [Mental Health Prediction](https://github.com/WinsenOlando/Mental-Health-Prediction) | Text Analysis Using NLP    | Python |
+| Project                                                                                           | Description                        | Tech               | Key Methods / Models                                                                                | Image                                                                                                                                |
+| ------------------------------------------------------------------------------------------------- | ---------------------------------- | ------------------ | --------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
+| [MetaFi](https://github.com/WinsenOlando/MetaFi)                                                  | Trading Platform Simulator         | C                  | Double Linked List, Insertion Sort, Finite State Machine, Trading Risk-Reward Calculation Algorithm | <img src="./image/Screenshot 2025-09-27 153629.png" alt="MetaFi" width="300" height="100"/>                                          |
+| [Exchange Rate Forecast](https://github.com/WinsenOlando/USD-to-IDR-prediction)                   | Prediction USD to IDR              | Python             | Linear Regression, XGBoost Regression, LightGBM Regression                                          | <img src="./image/preview_USDtoIDR.png" alt="Exchange Rate Forecast" width="300" height="100"/>                                      |
+| [Fuel Supply Database](https://github.com/WinsenOlando/Database-Technology)                       | Database Management                | MySQL              | UNF-3NF                                                                                             | <p align="center"> <img src="./image/ERD.png" alt="Fuel Supply Database" width="100" height="100"/> </p>                             |
+| [Mental Health Prediction](https://github.com/WinsenOlando/Mental-Health-Prediction)              | Text Analysis Using NLP            | Python             | XGBoost, Naive Bayes, Logistic Regression, Random Forest, Linear SVM                                | <p align="center"> <img src="./image/Screenshot 2025-09-30 145539.png" alt="Mental Health Prediction" width="100" height="100"/></p> |
+| [RUsman](https://github.com/WillyWinata/SoftEngLec-Project-RUsman)                                | Collaborative Academic Scheduler   | React, Go, & MySQL | Domain Driven Design Architecture                                                                   | <img src="./image/1750264309997.jpg" alt="RUsman" width="300" height="100"/>                                                         |
+| [Corn Diseases Detection](https://drive.google.com/file/d/1aXwdUWcbRjE5whrvL5B5KnUANTzqeuFr/view) | Computer Vision Research & Project | Python             | YOLOv11 & DeepSeek R1                                                                               | <img src="./image/Screenshot 2025-09-30 150349.png" alt="Corn Diseases Detection" width="300" height="100"/>                         |
 
 ---
 
@@ -57,17 +59,15 @@
 
 ### 🧩 Fun Facts
 
-- 📚 Completed an internship at Sigma Komputer (1 month), assisted with printer troubleshooting, laptop installation, and CCTV setup.
-- 🏃‍♂️ Achieved Second Runner-Up in _UPH Business Plan Competition_, sharpening my business and problem-solving skills.
-- 🎮 Won 3rd Place in the National Vesak Article Writing Competition organized by Keluarga Buddhayana Indonesia, highlighting strong writing and communication skills.
+- 🖥️ Completed an internship at Sigma Komputer (1 month), assisted with printer troubleshooting, laptop installation, and CCTV setup.
+- 💡 Achieved Second Runner-Up in _UPH Business Plan Competition_, sharpening my business and problem-solving skills.
+- ✍️ Won 3rd Place in the National Vesak Article Writing Competition organized by Keluarga Buddhayana Indonesia, highlighting strong writing and communication skills.
 
 ---
 
 ### ✉️ Get in Touch
 
 If you’d like to collaborate, chat about tech, or just say hi, feel free to reach out via LinkedIn or drop me an email at `[winsenolando@gmail.com]`
-
----
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/WinsenOlando/WinsenOlando/output/pacman-contribution-graph-dark.svg">
