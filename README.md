@@ -45,7 +45,7 @@
 | [Prediction USD to IDR](https://github.com/WinsenOlando/USD-to-IDR-prediction) | Python | Linear Regression, XGBoost Regression, LightGBM Regression | <img src="./image/preview_USDtoIDR.png" alt="Exchange Rate Forecast" width="300" height="100"/> |
 | [Database Management](https://github.com/WinsenOlando/Database-Technology) | MySQL | UNF-3NF | <img src="./image/ERD.png" alt="Fuel Supply Database" width="100" height="100"/> |
 | [Mental Health Using NLP](https://github.com/WinsenOlando/Mental-Health-Prediction) | Python | XGBoost, Naive Bayes, Logistic Regression, Random Forest, Linear SVM | <img src="./image/Screenshot 2025-09-30 145539.png" alt="Mental Health Prediction" width="100" height="100"/> |
-| [Collaborative Academic Scheduler](https://github.com/WillyWinata/SoftEngLec-Project-RUsman) | React, Go, & MySQL | Domain Driven Design Architecture | <img src="./image/1750264309997.jpg" alt="RUsman" width="300" height="100"/> |
+| [Collaborative Academic Scheduler](https://github.com/WinsenOlando/SoftEngLec-Project-RUsman-main) | React, Go, & MySQL | Domain Driven Design Architecture | <img src="./image/1750264309997.jpg" alt="RUsman" width="300" height="100"/> |
 | [Corn Diseases Detection](https://huggingface.co/spaces/Dricz/Corn-Diseases_Object_Detection) | Python | YOLOv11 & DeepSeek R1 | <img src="./image/Screenshot 2025-09-30 150349.png" alt="Corn Diseases Detection" width="300" height="100"/> |
 
 ---
