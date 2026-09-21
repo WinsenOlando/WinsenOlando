@@ -39,14 +39,14 @@
 
 ### 🚀 Featured Projects
 
-| Project                        | Tech               | Key Methods / Models                                                                                | Image                                                                                                                                |
-| ------------------------------------------------------------------------------------------------- | ---------------------------------- | ------------------ | --------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
-| [Trading Platform Simulator](https://github.com/WinsenOlando/MetaFi)                                                  | C                  | Double Linked List, Insertion Sort, Finite State Machine, Trading Risk-Reward Calculation Algorithm | <img src="./image/Screenshot 2025-09-27 153629.png" alt="MetaFi" width="300" height="100"/>                                          |
-| [Prediction USD to IDR](https://github.com/WinsenOlando/USD-to-IDR-prediction)                   | Python             | Linear Regression, XGBoost Regression, LightGBM Regression                                          | <img src="./image/preview_USDtoIDR.png" alt="Exchange Rate Forecast" width="300" height="100"/>                                      |
-| [Database Management](https://github.com/WinsenOlando/Database-Technology)                       | MySQL              | UNF-3NF                                                                                             | <p align="center"> <img src="./image/ERD.png" alt="Fuel Supply Database" width="100" height="100"/> </p>                             |
-| [Mental Health Using NLP](https://github.com/WinsenOlando/Mental-Health-Prediction)              | Python             | XGBoost, Naive Bayes, Logistic Regression, Random Forest, Linear SVM                                | <p align="center"> <img src="./image/Screenshot 2025-09-30 145539.png" alt="Mental Health Prediction" width="100" height="100"/></p> |
-| [Collaborative Academic Scheduler](https://github.com/WillyWinata/SoftEngLec-Project-RUsman)                                | React, Go, & MySQL | Domain Driven Design Architecture                                                                   | <img src="./image/1750264309997.jpg" alt="RUsman" width="300" height="100"/>                                                         |
-| [Corn Diseases Detection](https://huggingface.co/spaces/Dricz/Corn-Diseases_Object_Detection) | Python             | YOLOv11 & DeepSeek R1                                                                               | <img src="./image/Screenshot 2025-09-30 150349.png" alt="Corn Diseases Detection" width="300" height="100"/>                         |
+| Project | Tech | Key Methods / Models | Image |
+|---|---|---|---|
+| [Trading Platform Simulator](https://github.com/WinsenOlando/MetaFi) | C | Double Linked List, Insertion Sort, Finite State Machine, Trading Risk-Reward Calculation Algorithm | <img src="./image/Screenshot 2025-09-27 153629.png" alt="MetaFi" width="300" height="100"/> |
+| [Prediction USD to IDR](https://github.com/WinsenOlando/USD-to-IDR-prediction) | Python | Linear Regression, XGBoost Regression, LightGBM Regression | <img src="./image/preview_USDtoIDR.png" alt="Exchange Rate Forecast" width="300" height="100"/> |
+| [Database Management](https://github.com/WinsenOlando/Database-Technology) | MySQL | UNF-3NF | <img src="./image/ERD.png" alt="Fuel Supply Database" width="100" height="100"/> |
+| [Mental Health Using NLP](https://github.com/WinsenOlando/Mental-Health-Prediction) | Python | XGBoost, Naive Bayes, Logistic Regression, Random Forest, Linear SVM | <img src="./image/Screenshot 2025-09-30 145539.png" alt="Mental Health Prediction" width="100" height="100"/> |
+| [Collaborative Academic Scheduler](https://github.com/WillyWinata/SoftEngLec-Project-RUsman) | React, Go, & MySQL | Domain Driven Design Architecture | <img src="./image/1750264309997.jpg" alt="RUsman" width="300" height="100"/> |
+| [Corn Diseases Detection](https://huggingface.co/spaces/Dricz/Corn-Diseases_Object_Detection) | Python | YOLOv11 & DeepSeek R1 | <img src="./image/Screenshot 2025-09-30 150349.png" alt="Corn Diseases Detection" width="300" height="100"/> |
 
 ---
 
